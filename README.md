@@ -10,8 +10,23 @@ Text-based Interaction: The chatbot interacts with users through a simple comman
 Basic AI Simulation: While the chatbot does not use advanced AI techniques, it mimics basic conversational patterns through if-else or switch-case conditions
 
 Response Logic: Using conditionals, the bot compares the user’s input to a set of predefined patterns and outputs corresponding replies.
-Output Display: The chatbot's responses are displayed in the console window, making it easy to track the conversation.
+Output Display: The chatbot's response
+s are displayed in the console window, making it easy to track the conversation.
 Future Enhancements:
 Integration with Natural Language Processing (NLP): Adding an NLP library could allow the chatbot to handle more complex inputs and generate context-aware responses.
 GUI Interface: Implementing a graphical user interface (GUI) would enhance user experience and provide a more interactive feel compared to the command-line setup.
 Learning Capability: Implementing machine learning algorithms would allow the bot to learn from interactions and improve its responses over time.
+
+
+
+
+
+
+![Screenshot (46)](https://github.com/user-attachments/assets/60c80835-d669-4708-9a40-b5d9455bf6ef) 
+
+
+
+https://github.com/user-attachments/assets/e2eec380-0e90-46a3-a2ed-00b5112a353a
+
+
+
